@@ -1,0 +1,7 @@
+[Nemo Action]
+Name=Check SHA256 Hash
+Comment=Compute the SHA256 hash of the selected file
+Exec=EXEC_PATH_PLACEHOLDER/sha256_check.sh %F
+Icon-Name=gnome-panel-launcher
+Selection=s
+Extensions=any;

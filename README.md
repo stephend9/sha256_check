@@ -1,5 +1,7 @@
 # SHA256 Check Extension for Nemo File Manager
 
+**Current Version: 0.1.0**
+
 This extension adds a right-click context menu item in the Nemo file manager on Linux Mint to compute and compare the SHA256 hash of files.
 
 ## Features
@@ -58,3 +60,13 @@ Contributions, issues, and feature requests are welcome. Feel free to check the 
 Stephen D - [@stephend9](https://twitter.com/stephend9) - stephend9@gmail.com
 
 Project Link: [https://github.com/stephend9/sha256_check](https://github.com/stephend9/sha256_check)
+
+## Donations
+
+If you appreciate this extension and want to support its development, consider making a donation:
+
+- **Bitcoin (BTC):** `bc1q3jyrlz7qmh2cfyglhxhpq62m2ky0eld2wx5xan`
+- **Ethereum (ETH):** `0x246d84049Ad6763059643B09300F92aa4e5be7C8`
+
+Your support is greatly appreciated!
+
